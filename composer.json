@@ -1,7 +1,7 @@
 {
-  "name": "finolog/finolog-php",
+  "name": "finolog_update/finolog-php",
   "version": "1.0.2",
-  "description": "Official PHP bindings to the Finolog API",
+  "description": "PHP bindings to the Finolog API",
   "keywords": ["finolog", "finolog-php", "api"],
   "license": "Apache-2.0",
   "authors": [
